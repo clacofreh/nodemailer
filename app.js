@@ -13,7 +13,7 @@ async function main() {
     secure: true,
     auth: {
         user: 'clacofreh@gmail.com',
-        pass: 'tovzjsmxputkcozk'
+        pass: ''
     }
 });
 
